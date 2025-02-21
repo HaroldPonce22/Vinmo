@@ -1,8 +1,6 @@
+
+# Vinmo
 By Vin Leang (vleang@macalester.edu), Isauro Reyes (ireyes@macalester.edu), and Harold Ponce Saldivar (hponcesa@macalester.edu)
-
-
-
-<h3 align="center">Vinmo</h3>
 
 <!-- What is Vinmo? -->
 ## What is Vinmo? Why use Vinmo?
